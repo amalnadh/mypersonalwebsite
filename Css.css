@@ -1,0 +1,17 @@
+.htmlmain{
+    scroll-behavior: smooth;
+}
+.collapse {
+    animation: collapse .5s ease forwards;
+  }
+  
+  
+  .open {
+    animation: open .5s ease forwards;
+  }
+   a:hover {
+    background-color: rgb(210, 214, 214);
+    
+  }
+
+    
